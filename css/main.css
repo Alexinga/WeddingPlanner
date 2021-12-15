@@ -66,7 +66,7 @@ a {
 }
 /* Hero landing page */
 #hero-landing {
-    background: url('/imgs/home-bg.jpg') center center/cover;
+    background: url('../imgs/home-bg.jpg') center center/cover;
     height: 100vh;
     background-attachment: fixed;
 }
